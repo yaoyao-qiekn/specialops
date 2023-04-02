@@ -1,20 +1,17 @@
-# Welcome
+# Welcome!
 
 这里是一些 战争前线(Warface) 的特别行动战术
----
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+尽可能了解地图所有细节
 
-## Commands
+`min basic weapons and armors`
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+`speedrun Any%`
 
-## Project layout
+`solo`
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+`due`
+
+`trio`
+
+Enjoy Life Enjoy Gaming!
