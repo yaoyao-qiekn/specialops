@@ -1,4 +1,4 @@
-site_name: Warface Special Ops
+site_name: Specialops Advanced
 site_author: yaoyao_qiekn
 repo_url: https://github.com/yaoyao-qiekn/specialops
 repo_name: yaoyao-qiekn/specialops
@@ -6,6 +6,8 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  favicon: https://oss.kimidayo.cn/img/warface-ico.webp
+  logo: https://oss.kimidayo.cn/img/warface-ico.webp
   palette:
 
     # Palette toggle for light mode
